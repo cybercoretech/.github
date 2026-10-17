@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cybercoretech.github.io/">
-    <img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercoretech-org-avatar.png" alt="Cybercore Tech organization logo" width="72">
+    <img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercore-tech-mark.svg" alt="Cybercore Tech logo" width="72">
   </a>
 </p>
 
