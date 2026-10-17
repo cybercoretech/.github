@@ -1,5 +1,11 @@
 <p align="center">
   <a href="https://cybercoretech.github.io/">
+    <img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercore-tech-mark.svg" alt="Cybercore Tech icon" width="72">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cybercoretech.github.io/">
     <img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercore-tech-profile-hero.svg" alt="CYBERCORE TECH — systems, schema, security, signal" width="1200">
   </a>
 </p>
