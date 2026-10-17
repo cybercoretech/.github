@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cybercoretech.github.io/">
-    <img src="https://cybercoretech.github.io/assets/profile/cybercore-tech-profile-hero.svg" alt="CYBERCORE TECH — systems, schema, security, signal" width="1200">
+    <img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercore-tech-profile-hero.svg" alt="CYBERCORE TECH — systems, schema, security, signal" width="1200">
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 ## CYBERCORE SYSTEMS / LIVE TOPOLOGY
 
 <p align="center">
-  <a href="https://github.com/cybercoretech/cybercore"><img src="https://cybercoretech.github.io/assets/profile/cybercore-systems-flow.svg" alt="Clickable Cybercore Tech systems topology" width="1200"></a>
+  <a href="https://github.com/cybercoretech/cybercore"><img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercore-systems-flow.svg" alt="Clickable Cybercore Tech systems topology" width="1200"></a>
 </p>
 
 <p align="center"><sub>CLICK A NODE TO ENTER THE SYSTEM. THE TEXT LINKS BELOW ARE THE DIRECT NAVIGATION FALLBACK.</sub></p>
@@ -80,7 +80,7 @@
 ## OPEN SYSTEMS / OPEN SIGNAL
 
 <p align="center">
-  <a href="https://omarchy.org/"><img src="https://cybercoretech.github.io/assets/profile/cybercore-open-signal.svg" alt="Clickable open systems and community signal network" width="1200"></a>
+  <a href="https://omarchy.org/"><img src="https://raw.githubusercontent.com/cybercoretech/.github/main/profile/assets/cybercore-open-signal.svg" alt="Clickable open systems and community signal network" width="1200"></a>
 </p>
 
 <p align="center">
