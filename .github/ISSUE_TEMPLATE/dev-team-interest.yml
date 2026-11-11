@@ -1,0 +1,47 @@
+name: Public contributor interest
+description: Share a public, low-detail introduction and a first contribution idea.
+title: "[Contributor interest]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This GitHub issue is public and may be indexed by search engines.**
+        Do not include an email address, phone number, location, private work history, credentials, or security report.
+        For a private application, use [the Cybercore Dev Team form](https://cybercoretech.net/dev-team/#apply).
+  - type: dropdown
+    id: area
+    attributes:
+      label: What area interests you?
+      options:
+        - Rust and systems
+        - Android and Kotlin
+        - Web and interface design
+        - Testing and CI
+        - Documentation and community
+        - Still exploring
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Which project or public issue caught your interest?
+      description: A repository or issue link is helpful, but optional.
+      placeholder: https://github.com/cybercoretech/...
+    validations:
+      required: false
+  - type: textarea
+    id: first-step
+    attributes:
+      label: What kind of first contribution would you like to try?
+      description: Keep this focused on a public project task. Do not include private contact details.
+      placeholder: A bug fix, test, documentation improvement, design task, or question.
+    validations:
+      required: true
+  - type: input
+    id: public-work
+    attributes:
+      label: Optional link to public work
+      description: Only share a link you are comfortable making public.
+      placeholder: https://...
+    validations:
+      required: false
